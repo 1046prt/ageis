@@ -1,0 +1,8 @@
+*.db
+*.db-wal
+*.db-shm
+.git
+.gitignore
+*.md
+LICENSE
+.env
